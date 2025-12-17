@@ -14,6 +14,9 @@ TechVision es un sitio web corporativo que ofrece:
 
 El diseño es **responsive** y utiliza fuentes modernas, iconografía Font Awesome y buenas prácticas de accesibilidad y SEO.
 
+🌐 Visitar la página web
+[![Abrir TechVision](https://img.shields.io/badge/Visitar%20TechVision-Web-blue?style=for-the-badge)]([https://marioskky.github.io/Practica-2/](https://marioskky.github.io/Practica-1/))
+
 ## 🛠️ Tecnologías utilizadas
 
 * **HTML5** – Estructura y semántica del sitio
