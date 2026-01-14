@@ -16,7 +16,7 @@ El diseño es **responsive** y utiliza fuentes modernas, iconografía Font Aweso
 
 ## 🌐 Visitar la página web
 
-[![Abrir TechVision](https://img.shields.io/badge/Visitar%20TechVision-Web-blue?style=for-the-badge)](https://marioskky.github.io/Practica-1/)
+[![Abrir TechVision](https://img.shields.io/badge/Visitar%20TechVision-Web-blue?style=for-the-badge)](https://mariosahuco.github.io/Practica-1/)
 
 ## 🛠️ Tecnologías utilizadas
 
